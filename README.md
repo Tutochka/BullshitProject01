@@ -48,3 +48,18 @@ Here are some resources to dive deeper into these topics:
 
 ![IoT Data Flow](https://upload.wikimedia.org/wikipedia/commons/3/38/IoT_Architecture_with_Device%2C_Edge_and_Cloud.svg)  
 
+
+
+
+
+
+
+A) The __________ protocol encrypts data between a client and server, ensuring secure communication over the web
+
+BB) Which of the following protocols is most commonly used by IoT devices for lightweight, real-time communication?
+A) HTTP
+B) MQTT
+C) FTP
+D) DNS
+
+CCC) Describe a real-world scenario where an IoT device communicates with a cloud service. Include the role of web protocols in your answer.
