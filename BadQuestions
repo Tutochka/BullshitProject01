@@ -1,1 +1,35 @@
 
+
+
+A) The __________ protocol encrypts data between a client and server, ensuring secure communication over the web
+
+BB) Which of the following protocols is most commonly used by IoT devices for lightweight, real-time communication?
+A) HTTP
+B) MQTT
+C) FTP
+D) DNS
+
+CCC) Describe a real-world scenario where an IoT device communicates with a cloud service. Include the role of web protocols in your answer.
+
+
+---
+
+
+
+A)
+The HTTPS protocol encrypts data between a client and server, ensuring secure communication over the web.
+
+BB)
+The protocol most commonly used by IoT devices for lightweight, real-time communication is:
+B) MQTT
+
+CCC)
+Real-World Scenario:
+A smart thermostat installed in a home communicates with a cloud service to manage temperature settings remotely. When a user adjusts the thermostat settings through a mobile app, the app sends a command to the cloud service. The cloud service then forwards the command to the thermostat.
+
+Role of Web Protocols:
+
+MQTT: The thermostat uses the MQTT protocol for lightweight, efficient, and real-time communication with the cloud service. The protocol ensures that messages (e.g., updated temperature settings) are transmitted with minimal power consumption, suitable for IoT devices.
+HTTPS: The mobile app communicates securely with the cloud service using HTTPS to encrypt sensitive user data, such as login credentials and commands.
+REST APIs: The cloud service might expose REST APIs to handle communication between the app and the service, ensuring a standardized way to exchange data.
+This combination of protocols ensures secure, efficient, and reliable communication between the IoT device, cloud service, and user application.
